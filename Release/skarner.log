@@ -131,8 +131,7 @@ C:\Users\shvui\source\repos\skarner\SDK\Geometry.h(42): message :             _T
 C:\Users\shvui\source\repos\skarner\SDK\Geometry.h(42): message :         ]
      Creating library ..\..\..\..\Desktop\mini\Plugins\skarner.lib and object ..\..\..\..\Desktop\mini\Plugins\skarner.exp
   Generating code
-  1 of 401 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB not found, fall back to full compilation.
+  All 401 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   skarner.vcxproj -> C:\Users\shvui\source\repos\skarner\skarner\..\..\..\..\Desktop\mini\Plugins\skarner.dll
